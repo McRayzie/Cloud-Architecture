@@ -4,14 +4,14 @@ A repository for multi-cloud architecture projects (AWS, Azure, GCP)
 # 🌩 Cloud Architecture Repository  
 
 This repository contains hands-on **AWS, Azure, and GCP** projects focused on:  
-✅ **Cloud Solution Architecture**  
-✅ **Security & Compliance**  
-✅ **Networking & Infrastructure Automation**  
-✅ **DevOps & CI/CD Pipelines**  
+ **Cloud Solution Architecture**  
+ **Security & Compliance**  
+ **Networking & Infrastructure Automation**  
+ **DevOps & CI/CD Pipelines**  
 
-## 📂 Repository Structure  
+##  Repository Structure  
 ```
-📦 Cloud-Architecture  
+ Cloud-Architecture  
  ┣ 📂 AWS  
  ┃ ┣ 📂 Multi-Tier-Web-App  
  ┃ ┣ 📂 Secure-Multi-Account  
@@ -22,7 +22,7 @@ This repository contains hands-on **AWS, Azure, and GCP** projects focused on:
  ┣ 📂 GCP (for future projects)  
 ```
 
-## 🚀 Projects  
+## Projects  
 Below are the projects that will be added step by step overtime:  
 - [ ] **Multi-Tier Web App on AWS** – Deploy a scalable, highly available architecture using EC2, RDS, and ALB.  
 - [ ] **Secure Multi-Account Strategy** – Implement AWS Organizations, IAM, and Security Hub for cloud governance.  
