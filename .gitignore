@@ -35,3 +35,21 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Python files
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+aws_credentials
+
+# System files
+.DS_Store
